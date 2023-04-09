@@ -89,6 +89,29 @@ li img{
     }
     #meals-list{
         margin: 30px;
-        display: flex;     
-    }
+        display: flex;
+}
+}
+@media screen and (max-width:400px){
+    header div h2{
+        font-size: 17px;
+        padding: 8px;
+        word-wrap: wrap;
+    }
+    #box-2 {
+        position: relative;
+        right: 10px;
+    }
+    #box-2{
+        width: fit-content;
+    }
+    li{
+        width: 50px;
+    }
+
+    header{
+        margin: 6px;
+    }
+    
+
 }
