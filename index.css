@@ -174,4 +174,27 @@ li img{
     #box-1{
         width: fit-content;
     }
+
+}
+@media screen and (max-width: 480px){
+    header div h2{
+    font-size: 17px;
+    padding: 8px;
+    word-wrap: wrap;
+    }
+}
+@media screen and (max-width: 767px){
+    #box-1{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+}
+@media screen and (max-width: 1024px){
+    header div{
+        padding: 12px;
+    }
+    /* header div h2{
+        text-align: center;
+    } */
 }
