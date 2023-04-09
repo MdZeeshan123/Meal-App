@@ -115,5 +115,25 @@ img{
     }
     #meal-detail-container{
         width:90%;
-    }
+}
+    header div h2{
+        font-size:18px;
+        padding:8px;
+        word-wrap:wrap;
+    }
+    #box img{
+        position: relative;
+        right: 9px;
+    }
+    #box{
+        width: fit-content;
+    }
+    #box {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    header{
+        margin: 6px;
+    }
+
 }
