@@ -112,6 +112,14 @@ li img{
     header{
         margin: 6px;
     }
-    
+    header{
+        width: 100%;
+
+    }
+    #meals-list{
+        margin: 30px;
+        display: flex;
+}
+
 
 }
