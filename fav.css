@@ -102,25 +102,25 @@ li img{
         position: relative;
         right: 10px;
     }
-    #box-2{
-        width: fit-content;
-    }
+    
     li{
-        width: 50px;
+        width: 45%;
+        margin-bottom: 5px;
+
     }
 
     header{
         margin: 6px;
     }
     header{
-        width: 100vw;
+        width: 100%;
 
     }
     #meals-list{
         margin: 30px;
         display: flex;
-        flex-wrap: wrap;
-    justify-content: space-between;
+        
+    
 }
 
 
